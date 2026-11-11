@@ -1,3 +1,6 @@
 aiogram
 python-dotenv
 aiohttp
+requests
+pydantic
+typing-extensions
